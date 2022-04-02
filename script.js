@@ -1,14 +1,14 @@
 'use strict'
 
 const listGroup = document.querySelector('.list-group')
-const createUserForm = document.querySelector('#create-form')
-const firstNameInput = createUserForm.querySelector('#first_name')
-const lastNameInput = createUserForm.querySelector('#last_name')
-const emailInput = createUserForm.querySelector('#email')
-const birthdateInput = createUserForm.querySelector('#birthdate')
-const usernameInput = createUserForm.querySelector('#username')
-const phoneInput = createUserForm.querySelector('#phone')
-const message = createUserForm.querySelector('.message')
+const createUserFormX = document.querySelector('#create-form')
+const firstNameInputX = createUserForm.querySelector('#first_name')
+const lastNameInputX = createUserForm.querySelector('#last_name')
+const emailInputX = createUserForm.querySelector('#email')
+const birthdateInputX = createUserForm.querySelector('#birthdate')
+const usernameInputX = createUserForm.querySelector('#username')
+const phoneInputX = createUserForm.querySelector('#phone')
+const messageX = createUserForm.querySelector('.message')
 
 const editUserForm = document.querySelector('#edit-form')
 const idInputE = editUserForm.querySelector('#id')

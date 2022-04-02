@@ -1,5 +1,3 @@
-'use strict'
-
 const listGroup = document.querySelector('.list-group')
 const createUserForm = document.querySelector('#create-form')
 const firstNameInput = createUserForm.querySelector('#first_name')
